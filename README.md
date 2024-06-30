@@ -51,8 +51,10 @@ SVIG empowers caregivers and users alike, offering unparalleled peace of mind an
   
 # Used Tools and Features :
 - [Firebase](https://firebase.google.com/)
+- [Google Cloud](https://cloud.google.com/?hl=en)
 - [Open cv](https://opencv.org/)
 - [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition)
+- [TensorFlow](https://www.tensorflow.org/)
   
 # Future Work :
 - We are Going to make our project a used product 
