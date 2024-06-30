@@ -79,23 +79,23 @@ This demo is for previewing the main functions this is not final !
 [Demo](https://drive.google.com/file/d/1pTt-lvSkG0puxJjrHNISmkAmCycuxqYz/view)
 
 # Snapshots
-### Login Page
+## Login Page
 ![login](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/f5c47243-cc41-4b0a-b8ce-9a267fe45a3b)
-### Signup Page
+## Signup Page
 ![signup](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/426b0d04-b3a6-433b-86fc-7381b60171d1)
-### Adding Glasses
+## Adding Glasses
 ![adding holder](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/5f540a7d-4934-4d3a-8fcc-10c9b17cbfaf)
-### Added Glasses
+## Added Glasses
 ![holder added](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/c4b3cd27-9121-4e5f-98d3-3c82ec771def)
-### Current Glasses
+## Current Glasses
 ![current users](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/add64db1-5ba9-4b99-abce-0d59e78a2c62)
-### Online Glasses
+## Online Glasses
 ![online user](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/2d189787-0467-4f16-91d5-a467dcc993eb)
-### Live Location Of Online Glasses
+## Live Location Of Online Glasses
 ![location](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/300d7cfd-b6cd-4987-b134-dccf487ba04b)
-### Live Stream Of Online Glasses
+## Live Stream Of Online Glasses
 ![stream loading](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/8b384c47-5b45-4ed9-ac72-d080fb09ea47)
-### Offline Glasses
+## Offline Glasses
 ![offline user](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/9dd6f916-109d-4868-abc4-e300d8ee43a5)
 
 
