@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863180501287",
+    "project_id": "smartglasses-d727a",
+    "storage_bucket": "smartglasses-d727a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863180501287:android:38b1d35bf684cc4887f902",
+        "android_client_info": {
+          "package_name": "com.example.mapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD70R4qz-N4jTAlcQPJa7baaJScDb5xKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
