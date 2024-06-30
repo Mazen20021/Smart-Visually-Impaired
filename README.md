@@ -74,11 +74,7 @@ SVIG empowers caregivers and users alike, offering unparalleled peace of mind an
  [Engineer Ethar]()
 
 # App Version
-Inital Released 30/6/2024
-
-# Application Vedio
-This demo is for previewing the main functions this is not final !
-[Demo](https://drive.google.com/file/d/1pTt-lvSkG0puxJjrHNISmkAmCycuxqYz/view)
+Released on 30/6/2024
 
 # Snapshots
 ## Login Page
