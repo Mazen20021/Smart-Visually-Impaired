@@ -2,9 +2,9 @@
 The Smart Visually Improved Glasses (SVIG) project is dedicated to aiding visually impaired individuals. This endeavor comprises two integral components: a Mobile App and AI Glasses. The Mobile App serves as a vital interface to collect essential data from the glasses, facilitating real-time monitoring of the wearer. It encompasses functionalities such as live location tracking, heart rate monitoring, acceleration detection, and live streaming of the wearer's perspective. Ensuring utmost user-friendliness, the project prioritizes intuitive design and seamless usability.
 
 # Sponsered By 
- - ITIDA ![Untitled](https://github.com/user-attachments/assets/110f6c5e-c2e1-43cf-967c-a50c3b60d18e)
- - Academy of Scientific Research ![1](https://github.com/user-attachments/assets/9312421d-1b14-4a76-a5d6-dee613d3db41)
- - 
+ - ![Untitled](https://github.com/user-attachments/assets/110f6c5e-c2e1-43cf-967c-a50c3b60d18e)
+ - ![1](https://github.com/user-attachments/assets/9312421d-1b14-4a76-a5d6-dee613d3db41)
+   
 # ⭐ Key Features - Hardware 💻 
 ## Object Detection 🔍
 SVIG empowers users with object detection capabilities, enhancing their spatial awareness and navigation.
