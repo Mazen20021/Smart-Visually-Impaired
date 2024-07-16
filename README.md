@@ -75,7 +75,7 @@ SVIG empowers caregivers and users alike, offering unparalleled peace of mind an
 
 # App Version
 Released on 30/6/2024
-
+# [Project Presentation](https://docs.google.com/presentation/d/1EKrh8_lfW6Sfb7FEhIH1Bf84K6BNVgvWtIivy7LGN6I/edit?usp=sharing) 
 # Snapshots
 ## Login Page
 ![login](https://github.com/Mazen20021/Smart-Visually-Impaired/assets/131156076/f5c47243-cc41-4b0a-b8ce-9a267fe45a3b)
