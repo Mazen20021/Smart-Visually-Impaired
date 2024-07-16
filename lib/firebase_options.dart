@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBD70R4qz-N4jTAlcQPJa7baaJScDb5xKw',
+    apiKey: 'YOUR API KEY',
     appId: '1:863180501287:android:38b1d35bf684cc4887f902',
     messagingSenderId: '863180501287',
     projectId: 'smartglasses-d727a',
