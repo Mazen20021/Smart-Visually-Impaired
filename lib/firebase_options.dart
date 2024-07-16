@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyALkkud43Z_YQgaEgcz5VuFf8pW3ZRQzSE',
+    apiKey: 'YOUR API KEY',
     appId: '1:863180501287:web:62e3fb2ef6e1a74e87f902',
     messagingSenderId: '863180501287',
     projectId: 'smartglasses-d727a',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCX6bxmZxgoXgfKzqRun2bLVLcYrFWFm5E',
+    apiKey: 'YOUR API KEY',
     appId: '1:863180501287:ios:24e7acfaf3d65cdb87f902',
     messagingSenderId: '863180501287',
     projectId: 'smartglasses-d727a',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCX6bxmZxgoXgfKzqRun2bLVLcYrFWFm5E',
+    apiKey: 'YOUR API KEY',
     appId: '1:863180501287:ios:24e7acfaf3d65cdb87f902',
     messagingSenderId: '863180501287',
     projectId: 'smartglasses-d727a',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyALkkud43Z_YQgaEgcz5VuFf8pW3ZRQzSE',
+    apiKey: 'YOUR API KEY',
     appId: '1:863180501287:web:dbb37b502f09df1087f902',
     messagingSenderId: '863180501287',
     projectId: 'smartglasses-d727a',
